@@ -1,0 +1,500 @@
+{"Argentina,UAE":["Airbus A380","56 business, 233 economy","15 hours, 33 minutes"]}
+{"Australia,Mexico":["Boeing 787","67 business, 281 economy","9 hours, 0 minutes"]}
+{"UK,South Africa":["Bombardier C-110","88 business, 213 economy","1 hours, 47 minutes"]}
+{"Australia,France":["Airbus A320","15 business, 182 economy","11 hours, 19 minutes"]}
+{"Italy,USA":["Boeing 737","78 business, 281 economy","8 hours, 30 minutes"]}
+{"Egypt,Italy":["Tupolev Tu-204","94 business, 262 economy","12 hours, 56 minutes"]}
+{"South Africa,Germany":["Bombardier C-110","46 business, 116 economy","7 hours, 13 minutes"]}
+{"India,Turkey":["Embraer E190","92 business, 197 economy","1 hours, 49 minutes"]}
+{"Italy,Canada":["Embraer E190","89 business, 95 economy","13 hours, 6 minutes"]}
+{"Argentina,Canada":["Antonov 24","27 business, 254 economy","13 hours, 3 minutes"]}
+{"Germany,Egypt":["Tupolev Tu-204","30 business, 207 economy","15 hours, 35 minutes"]}
+{"India,Spain":["Boeing 787","81 business, 277 economy","14 hours, 18 minutes"]}
+{"UAE,USA":["Airbus A320","73 business, 109 economy","14 hours, 32 minutes"]}
+{"Spain,South Africa":["Tupolev Tu-204","96 business, 272 economy","15 hours, 20 minutes"]}
+{"South Africa,Canada":["Boeing 737","26 business, 254 economy","4 hours, 33 minutes"]}
+{"Turkey,France":["Antonov 24","34 business, 196 economy","13 hours, 50 minutes"]}
+{"Canada,Germany":["Airbus A380","58 business, 245 economy","12 hours, 38 minutes"]}
+{"Egypt,USA":["Bombardier C-110","41 business, 141 economy","10 hours, 32 minutes"]}
+{"South Africa,UAE":["Bombardier C-110","33 business, 67 economy","6 hours, 40 minutes"]}
+{"Mexico,South Africa":["Airbus A380","23 business, 291 economy","4 hours, 55 minutes"]}
+{"Japan,Mexico":["Boeing 787","26 business, 200 economy","2 hours, 31 minutes"]}
+{"Egypt,Russia":["Airbus A320","27 business, 163 economy","8 hours, 18 minutes"]}
+{"Saudi Arabia,Australia":["Comac C919","22 business, 291 economy","5 hours, 57 minutes"]}
+{"UK,Argentina":["Boeing 747","94 business, 59 economy","1 hours, 5 minutes"]}
+{"USA,Mexico":["Boeing 747","94 business, 67 economy","6 hours, 27 minutes"]}
+{"Brazil,Russia":["Airbus A380","46 business, 100 economy","10 hours, 18 minutes"]}
+{"Saudi Arabia,Spain":["Antonov 24","34 business, 52 economy","5 hours, 12 minutes"]}
+{"South Africa,Mexico":["Embraer E190","48 business, 225 economy","7 hours, 37 minutes"]}
+{"Turkey,UK":["Bombardier C-110","37 business, 246 economy","8 hours, 8 minutes"]}
+{"Canada,Spain":["Boeing 747","67 business, 116 economy","2 hours, 34 minutes"]}
+{"Brazil,UK":["Tupolev Tu-204","65 business, 255 economy","6 hours, 9 minutes"]}
+{"Egypt,Brazil":["Comac C919","47 business, 85 economy","11 hours, 47 minutes"]}
+{"India,Canada":["Antonov 24","21 business, 226 economy","15 hours, 50 minutes"]}
+{"Egypt,Japan":["Airbus A380","58 business, 53 economy","1 hours, 7 minutes"]}
+{"Australia,Spain":["Tupolev Tu-204","66 business, 69 economy","1 hours, 29 minutes"]}
+{"Italy,USA":["Airbus A380","64 business, 248 economy","7 hours, 29 minutes"]}
+{"Japan,USA":["Embraer E190","64 business, 128 economy","2 hours, 51 minutes"]}
+{"Saudi Arabia,Mexico":["Boeing 737","26 business, 118 economy","11 hours, 32 minutes"]}
+{"Saudi Arabia,Germany":["Boeing 737","50 business, 237 economy","2 hours, 6 minutes"]}
+{"Egypt,China":["Embraer E190","99 business, 79 economy","9 hours, 31 minutes"]}
+{"Turkey,USA":["Comac C919","26 business, 142 economy","10 hours, 46 minutes"]}
+{"India,Argentina":["Boeing 747","15 business, 150 economy","9 hours, 7 minutes"]}
+{"Russia,Mexico":["Bombardier C-110","33 business, 189 economy","3 hours, 44 minutes"]}
+{"Spain,Egypt":["Boeing 787","42 business, 64 economy","9 hours, 59 minutes"]}
+{"Brazil,UK":["Airbus A320","23 business, 139 economy","7 hours, 7 minutes"]}
+{"UK,Turkey":["Boeing 747","11 business, 100 economy","7 hours, 2 minutes"]}
+{"Argentina,India":["Antonov 24","6 business, 54 economy","6 hours, 32 minutes"]}
+{"Spain,India":["Airbus A380","55 business, 113 economy","7 hours, 59 minutes"]}
+{"Brazil,Canada":["Antonov 24","85 business, 112 economy","9 hours, 53 minutes"]}
+{"China,Turkey":["Comac C919","19 business, 116 economy","15 hours, 8 minutes"]}
+{"Canada,South Africa":["Boeing 787","17 business, 132 economy","5 hours, 26 minutes"]}
+{"USA,Mexico":["Boeing 787","50 business, 74 economy","2 hours, 41 minutes"]}
+{"Spain,Brazil":["Antonov 24","66 business, 148 economy","12 hours, 27 minutes"]}
+{"USA,UAE":["Boeing 737","37 business, 243 economy","1 hours, 6 minutes"]}
+{"Turkey,Mexico":["Tupolev Tu-204","44 business, 53 economy","7 hours, 36 minutes"]}
+{"Saudi Arabia,Brazil":["Boeing 787","8 business, 139 economy","8 hours, 0 minutes"]}
+{"China,Italy":["Boeing 787","81 business, 173 economy","13 hours, 41 minutes"]}
+{"UAE,Saudi Arabia":["Boeing 737","8 business, 119 economy","8 hours, 2 minutes"]}
+{"France,Brazil":["Comac C919","88 business, 118 economy","4 hours, 28 minutes"]}
+{"Brazil,Mexico":["Tupolev Tu-204","7 business, 86 economy","11 hours, 49 minutes"]}
+{"South Africa,Brazil":["Embraer E190","95 business, 215 economy","12 hours, 2 minutes"]}
+{"USA,Spain":["Antonov 24","53 business, 257 economy","4 hours, 16 minutes"]}
+{"Argentina,Russia":["Boeing 747","69 business, 204 economy","4 hours, 27 minutes"]}
+{"Italy,Spain":["Boeing 737","39 business, 114 economy","15 hours, 12 minutes"]}
+{"France,Germany":["Airbus A320","12 business, 63 economy","4 hours, 11 minutes"]}
+{"Egypt,India":["Tupolev Tu-204","93 business, 194 economy","7 hours, 28 minutes"]}
+{"Argentina,India":["Comac C919","99 business, 57 economy","3 hours, 39 minutes"]}
+{"Russia,Italy":["Boeing 787","76 business, 299 economy","1 hours, 11 minutes"]}
+{"Saudi Arabia,Egypt":["Bombardier C-110","29 business, 145 economy","8 hours, 37 minutes"]}
+{"Argentina,Australia":["Boeing 737","27 business, 51 economy","4 hours, 51 minutes"]}
+{"South Africa,UAE":["Embraer E190","30 business, 256 economy","2 hours, 42 minutes"]}
+{"Russia,Turkey":["Embraer E190","65 business, 298 economy","9 hours, 49 minutes"]}
+{"Saudi Arabia,France":["Bombardier C-110","44 business, 238 economy","2 hours, 50 minutes"]}
+{"Spain,Japan":["Boeing 737","6 business, 287 economy","5 hours, 42 minutes"]}
+{"Saudi Arabia,Turkey":["Embraer E190","36 business, 197 economy","12 hours, 17 minutes"]}
+{"Italy,Egypt":["Comac C919","15 business, 254 economy","9 hours, 0 minutes"]}
+{"UK,India":["Boeing 747","42 business, 245 economy","7 hours, 45 minutes"]}
+{"Japan,South Africa":["Antonov 24","100 business, 101 economy","12 hours, 50 minutes"]}
+{"UK,Egypt":["Airbus A320","84 business, 88 economy","13 hours, 12 minutes"]}
+{"India,Spain":["Bombardier C-110","71 business, 129 economy","1 hours, 17 minutes"]}
+{"Russia,South Africa":["Boeing 747","78 business, 82 economy","11 hours, 34 minutes"]}
+{"Germany,Saudi Arabia":["Boeing 747","21 business, 286 economy","13 hours, 4 minutes"]}
+{"Canada,Australia":["Boeing 787","78 business, 187 economy","3 hours, 29 minutes"]}
+{"France,UK":["Boeing 737","20 business, 263 economy","4 hours, 30 minutes"]}
+{"Russia,Turkey":["Comac C919","45 business, 117 economy","15 hours, 20 minutes"]}
+{"Turkey,Japan":["Airbus A320","75 business, 187 economy","4 hours, 38 minutes"]}
+{"India,Turkey":["Boeing 787","82 business, 267 economy","11 hours, 34 minutes"]}
+{"China,UAE":["Boeing 787","71 business, 178 economy","11 hours, 25 minutes"]}
+{"USA,South Africa":["Boeing 737","58 business, 139 economy","14 hours, 22 minutes"]}
+{"Canada,Spain":["Boeing 787","16 business, 136 economy","8 hours, 13 minutes"]}
+{"Germany,Mexico":["Boeing 737","75 business, 287 economy","8 hours, 54 minutes"]}
+{"Germany,India":["Tupolev Tu-204","62 business, 67 economy","15 hours, 52 minutes"]}
+{"Spain,Argentina":["Bombardier C-110","5 business, 193 economy","6 hours, 11 minutes"]}
+{"Mexico,China":["Boeing 737","44 business, 296 economy","7 hours, 53 minutes"]}
+{"France,China":["Airbus A320","48 business, 191 economy","12 hours, 51 minutes"]}
+{"Canada,South Africa":["Airbus A320","12 business, 283 economy","14 hours, 43 minutes"]}
+{"France,Canada":["Antonov 24","33 business, 133 economy","6 hours, 31 minutes"]}
+{"Brazil,France":["Antonov 24","100 business, 122 economy","12 hours, 54 minutes"]}
+{"Australia,China":["Comac C919","88 business, 275 economy","10 hours, 31 minutes"]}
+{"Russia,South Africa":["Bombardier C-110","77 business, 157 economy","15 hours, 55 minutes"]}
+{"Saudi Arabia,China":["Tupolev Tu-204","96 business, 208 economy","10 hours, 0 minutes"]}
+{"South Africa,Australia":["Embraer E190","85 business, 243 economy","10 hours, 15 minutes"]}
+{"UAE,Mexico":["Boeing 747","24 business, 217 economy","12 hours, 27 minutes"]}
+{"China,Japan":["Comac C919","40 business, 298 economy","8 hours, 44 minutes"]}
+{"Spain,Turkey":["Airbus A380","92 business, 213 economy","14 hours, 3 minutes"]}
+{"Mexico,India":["Boeing 787","82 business, 63 economy","13 hours, 51 minutes"]}
+{"Spain,Australia":["Tupolev Tu-204","20 business, 138 economy","9 hours, 1 minutes"]}
+{"Germany,France":["Bombardier C-110","16 business, 201 economy","7 hours, 26 minutes"]}
+{"Canada,Italy":["Boeing 787","44 business, 252 economy","10 hours, 4 minutes"]}
+{"South Africa,UK":["Antonov 24","17 business, 119 economy","9 hours, 56 minutes"]}
+{"Saudi Arabia,USA":["Boeing 737","79 business, 256 economy","9 hours, 52 minutes"]}
+{"Saudi Arabia,Turkey":["Airbus A320","13 business, 157 economy","7 hours, 3 minutes"]}
+{"Brazil,UAE":["Airbus A380","94 business, 113 economy","12 hours, 38 minutes"]}
+{"Japan,UK":["Comac C919","21 business, 134 economy","3 hours, 27 minutes"]}
+{"USA,Saudi Arabia":["Antonov 24","72 business, 152 economy","7 hours, 24 minutes"]}
+{"Saudi Arabia,France":["Bombardier C-110","89 business, 109 economy","1 hours, 10 minutes"]}
+{"China,South Africa":["Boeing 747","50 business, 283 economy","5 hours, 16 minutes"]}
+{"USA,Saudi Arabia":["Antonov 24","98 business, 113 economy","3 hours, 14 minutes"]}
+{"Saudi Arabia,Argentina":["Boeing 787","94 business, 131 economy","14 hours, 22 minutes"]}
+{"Russia,Germany":["Bombardier C-110","86 business, 283 economy","7 hours, 5 minutes"]}
+{"Turkey,South Africa":["Bombardier C-110","40 business, 242 economy","1 hours, 47 minutes"]}
+{"Saudi Arabia,Spain":["Airbus A320","37 business, 105 economy","11 hours, 17 minutes"]}
+{"Egypt,UAE":["Boeing 747","96 business, 137 economy","4 hours, 39 minutes"]}
+{"Russia,Turkey":["Boeing 747","86 business, 87 economy","9 hours, 11 minutes"]}
+{"Brazil,Mexico":["Bombardier C-110","47 business, 225 economy","15 hours, 3 minutes"]}
+{"Japan,Brazil":["Boeing 787","28 business, 292 economy","2 hours, 37 minutes"]}
+{"Australia,Turkey":["Airbus A380","76 business, 182 economy","1 hours, 24 minutes"]}
+{"Canada,India":["Boeing 737","93 business, 131 economy","11 hours, 22 minutes"]}
+{"Turkey,France":["Airbus A320","89 business, 102 economy","1 hours, 21 minutes"]}
+{"Italy,Japan":["Airbus A320","61 business, 50 economy","4 hours, 3 minutes"]}
+{"UK,Italy":["Antonov 24","84 business, 134 economy","2 hours, 58 minutes"]}
+{"Brazil,Japan":["Airbus A320","22 business, 105 economy","6 hours, 13 minutes"]}
+{"USA,Japan":["Bombardier C-110","8 business, 139 economy","5 hours, 57 minutes"]}
+{"France,Australia":["Boeing 787","63 business, 287 economy","10 hours, 40 minutes"]}
+{"UAE,China":["Bombardier C-110","74 business, 177 economy","13 hours, 33 minutes"]}
+{"UAE,France":["Boeing 737","77 business, 208 economy","6 hours, 30 minutes"]}
+{"France,Germany":["Boeing 737","73 business, 83 economy","13 hours, 56 minutes"]}
+{"Saudi Arabia,Egypt":["Comac C919","57 business, 202 economy","1 hours, 49 minutes"]}
+{"UAE,Brazil":["Embraer E190","59 business, 122 economy","13 hours, 5 minutes"]}
+{"Spain,Brazil":["Boeing 787","75 business, 292 economy","11 hours, 35 minutes"]}
+{"Saudi Arabia,South Africa":["Boeing 747","30 business, 56 economy","9 hours, 15 minutes"]}
+{"Turkey,France":["Boeing 787","98 business, 248 economy","15 hours, 33 minutes"]}
+{"USA,Egypt":["Comac C919","19 business, 213 economy","14 hours, 2 minutes"]}
+{"Germany,Russia":["Boeing 737","8 business, 128 economy","3 hours, 21 minutes"]}
+{"Japan,France":["Boeing 747","88 business, 163 economy","5 hours, 7 minutes"]}
+{"China,South Africa":["Comac C919","87 business, 131 economy","11 hours, 31 minutes"]}
+{"Mexico,Egypt":["Antonov 24","51 business, 93 economy","9 hours, 39 minutes"]}
+{"Turkey,Italy":["Airbus A380","27 business, 233 economy","8 hours, 2 minutes"]}
+{"Argentina,Mexico":["Bombardier C-110","35 business, 230 economy","6 hours, 2 minutes"]}
+{"Saudi Arabia,USA":["Bombardier C-110","83 business, 102 economy","8 hours, 33 minutes"]}
+{"South Africa,Germany":["Antonov 24","55 business, 132 economy","11 hours, 19 minutes"]}
+{"Canada,UAE":["Airbus A380","39 business, 60 economy","9 hours, 23 minutes"]}
+{"Spain,Egypt":["Comac C919","75 business, 261 economy","4 hours, 49 minutes"]}
+{"Italy,UAE":["Boeing 747","89 business, 286 economy","12 hours, 8 minutes"]}
+{"India,Spain":["Embraer E190","19 business, 196 economy","8 hours, 59 minutes"]}
+{"Australia,USA":["Airbus A380","35 business, 93 economy","11 hours, 12 minutes"]}
+{"Australia,Germany":["Airbus A320","96 business, 74 economy","1 hours, 59 minutes"]}
+{"China,Turkey":["Airbus A320","26 business, 292 economy","9 hours, 7 minutes"]}
+{"France,China":["Airbus A380","60 business, 263 economy","4 hours, 12 minutes"]}
+{"Canada,Turkey":["Bombardier C-110","44 business, 84 economy","8 hours, 27 minutes"]}
+{"USA,Germany":["Comac C919","62 business, 247 economy","11 hours, 20 minutes"]}
+{"India,USA":["Boeing 747","76 business, 230 economy","3 hours, 48 minutes"]}
+{"Canada,Spain":["Tupolev Tu-204","12 business, 287 economy","14 hours, 36 minutes"]}
+{"Germany,Canada":["Boeing 737","65 business, 251 economy","11 hours, 13 minutes"]}
+{"Saudi Arabia,Spain":["Tupolev Tu-204","85 business, 293 economy","1 hours, 55 minutes"]}
+{"UAE,Egypt":["Airbus A320","95 business, 64 economy","4 hours, 26 minutes"]}
+{"UK,Mexico":["Boeing 737","8 business, 142 economy","13 hours, 57 minutes"]}
+{"France,India":["Airbus A320","11 business, 249 economy","1 hours, 39 minutes"]}
+{"Germany,France":["Bombardier C-110","90 business, 263 economy","15 hours, 4 minutes"]}
+{"Turkey,UK":["Airbus A320","23 business, 140 economy","4 hours, 10 minutes"]}
+{"Egypt,South Africa":["Boeing 787","82 business, 221 economy","4 hours, 17 minutes"]}
+{"Mexico,Germany":["Bombardier C-110","82 business, 290 economy","13 hours, 30 minutes"]}
+{"USA,Egypt":["Comac C919","92 business, 149 economy","15 hours, 24 minutes"]}
+{"USA,Italy":["Embraer E190","18 business, 260 economy","12 hours, 11 minutes"]}
+{"Australia,UK":["Bombardier C-110","29 business, 278 economy","4 hours, 39 minutes"]}
+{"Japan,India":["Airbus A320","50 business, 141 economy","11 hours, 12 minutes"]}
+{"Germany,Saudi Arabia":["Comac C919","18 business, 89 economy","11 hours, 36 minutes"]}
+{"Saudi Arabia,France":["Tupolev Tu-204","22 business, 228 economy","12 hours, 24 minutes"]}
+{"USA,Australia":["Airbus A320","10 business, 73 economy","10 hours, 41 minutes"]}
+{"India,UK":["Tupolev Tu-204","95 business, 70 economy","2 hours, 0 minutes"]}
+{"Saudi Arabia,India":["Embraer E190","67 business, 88 economy","3 hours, 5 minutes"]}
+{"Egypt,Germany":["Tupolev Tu-204","7 business, 125 economy","14 hours, 11 minutes"]}
+{"UK,Saudi Arabia":["Boeing 747","98 business, 107 economy","5 hours, 47 minutes"]}
+{"France,UK":["Boeing 787","64 business, 84 economy","1 hours, 33 minutes"]}
+{"Australia,UK":["Embraer E190","77 business, 159 economy","14 hours, 31 minutes"]}
+{"Saudi Arabia,Italy":["Tupolev Tu-204","13 business, 132 economy","3 hours, 30 minutes"]}
+{"USA,UAE":["Bombardier C-110","52 business, 159 economy","8 hours, 34 minutes"]}
+{"Brazil,Russia":["Bombardier C-110","16 business, 185 economy","7 hours, 44 minutes"]}
+{"Germany,Canada":["Boeing 787","17 business, 257 economy","12 hours, 54 minutes"]}
+{"UK,Australia":["Boeing 737","48 business, 298 economy","14 hours, 20 minutes"]}
+{"Spain,China":["Bombardier C-110","95 business, 157 economy","8 hours, 28 minutes"]}
+{"Canada,China":["Embraer E190","34 business, 193 economy","12 hours, 54 minutes"]}
+{"South Africa,China":["Boeing 747","74 business, 166 economy","8 hours, 45 minutes"]}
+{"UK,South Africa":["Boeing 787","43 business, 114 economy","2 hours, 11 minutes"]}
+{"Brazil,South Africa":["Antonov 24","12 business, 256 economy","13 hours, 10 minutes"]}
+{"UAE,France":["Antonov 24","61 business, 175 economy","1 hours, 6 minutes"]}
+{"Russia,South Africa":["Tupolev Tu-204","34 business, 183 economy","3 hours, 16 minutes"]}
+{"Mexico,UAE":["Comac C919","86 business, 176 economy","7 hours, 34 minutes"]}
+{"China,Egypt":["Boeing 747","50 business, 268 economy","6 hours, 2 minutes"]}
+{"Saudi Arabia,South Africa":["Boeing 787","25 business, 175 economy","8 hours, 30 minutes"]}
+{"UAE,USA":["Airbus A320","69 business, 82 economy","11 hours, 1 minutes"]}
+{"Japan,Germany":["Boeing 787","10 business, 114 economy","2 hours, 48 minutes"]}
+{"Argentina,Russia":["Antonov 24","7 business, 127 economy","15 hours, 34 minutes"]}
+{"Argentina,Canada":["Boeing 747","8 business, 195 economy","4 hours, 8 minutes"]}
+{"UAE,Turkey":["Airbus A380","83 business, 92 economy","13 hours, 35 minutes"]}
+{"Russia,India":["Embraer E190","25 business, 278 economy","9 hours, 2 minutes"]}
+{"Russia,Australia":["Embraer E190","88 business, 131 economy","1 hours, 19 minutes"]}
+{"Turkey,Germany":["Boeing 747","26 business, 271 economy","13 hours, 7 minutes"]}
+{"Mexico,India":["Tupolev Tu-204","44 business, 260 economy","5 hours, 33 minutes"]}
+{"Argentina,China":["Embraer E190","86 business, 197 economy","9 hours, 6 minutes"]}
+{"France,South Africa":["Boeing 787","54 business, 220 economy","3 hours, 5 minutes"]}
+{"Germany,Russia":["Comac C919","29 business, 274 economy","6 hours, 29 minutes"]}
+{"Italy,UK":["Bombardier C-110","85 business, 187 economy","13 hours, 51 minutes"]}
+{"USA,Argentina":["Antonov 24","72 business, 100 economy","14 hours, 13 minutes"]}
+{"Spain,Russia":["Boeing 787","32 business, 273 economy","10 hours, 12 minutes"]}
+{"Japan,USA":["Boeing 787","79 business, 133 economy","6 hours, 41 minutes"]}
+{"India,Spain":["Airbus A380","45 business, 159 economy","14 hours, 32 minutes"]}
+{"Argentina,Italy":["Embraer E190","48 business, 300 economy","6 hours, 55 minutes"]}
+{"Egypt,Brazil":["Bombardier C-110","34 business, 262 economy","8 hours, 53 minutes"]}
+{"USA,Turkey":["Airbus A320","58 business, 71 economy","11 hours, 3 minutes"]}
+{"Egypt,Japan":["Comac C919","68 business, 279 economy","4 hours, 24 minutes"]}
+{"Saudi Arabia,USA":["Antonov 24","14 business, 201 economy","7 hours, 18 minutes"]}
+{"Japan,Italy":["Comac C919","93 business, 249 economy","14 hours, 5 minutes"]}
+{"Italy,UAE":["Comac C919","38 business, 289 economy","6 hours, 49 minutes"]}
+{"Japan,Turkey":["Tupolev Tu-204","14 business, 186 economy","6 hours, 30 minutes"]}
+{"Spain,Russia":["Embraer E190","79 business, 122 economy","6 hours, 53 minutes"]}
+{"Turkey,South Africa":["Boeing 747","44 business, 108 economy","1 hours, 23 minutes"]}
+{"Brazil,USA":["Boeing 787","90 business, 100 economy","1 hours, 13 minutes"]}
+{"Australia,Germany":["Boeing 747","39 business, 247 economy","1 hours, 6 minutes"]}
+{"Germany,Italy":["Bombardier C-110","95 business, 182 economy","1 hours, 35 minutes"]}
+{"India,Italy":["Embraer E190","54 business, 118 economy","10 hours, 47 minutes"]}
+{"Mexico,Saudi Arabia":["Boeing 737","12 business, 184 economy","12 hours, 1 minutes"]}
+{"Australia,Brazil":["Airbus A320","62 business, 88 economy","2 hours, 32 minutes"]}
+{"Turkey,Japan":["Boeing 737","90 business, 228 economy","15 hours, 15 minutes"]}
+{"Japan,South Africa":["Airbus A320","100 business, 185 economy","13 hours, 10 minutes"]}
+{"Mexico,Spain":["Comac C919","17 business, 268 economy","7 hours, 33 minutes"]}
+{"Italy,UAE":["Tupolev Tu-204","70 business, 61 economy","6 hours, 32 minutes"]}
+{"South Africa,Italy":["Boeing 787","96 business, 274 economy","6 hours, 46 minutes"]}
+{"Spain,Italy":["Boeing 787","49 business, 183 economy","13 hours, 53 minutes"]}
+{"Brazil,Australia":["Airbus A320","69 business, 240 economy","6 hours, 1 minutes"]}
+{"Saudi Arabia,Australia":["Airbus A320","71 business, 260 economy","12 hours, 58 minutes"]}
+{"UAE,Argentina":["Boeing 737","8 business, 197 economy","10 hours, 17 minutes"]}
+{"Canada,Mexico":["Boeing 737","64 business, 289 economy","12 hours, 39 minutes"]}
+{"Spain,UAE":["Antonov 24","66 business, 60 economy","12 hours, 32 minutes"]}
+{"China,Russia":["Boeing 747","61 business, 159 economy","8 hours, 13 minutes"]}
+{"Mexico,Brazil":["Tupolev Tu-204","45 business, 119 economy","11 hours, 38 minutes"]}
+{"South Africa,Egypt":["Airbus A380","17 business, 73 economy","13 hours, 21 minutes"]}
+{"China,Brazil":["Antonov 24","87 business, 108 economy","7 hours, 40 minutes"]}
+{"India,UAE":["Boeing 737","44 business, 300 economy","7 hours, 48 minutes"]}
+{"Germany,Japan":["Bombardier C-110","43 business, 139 economy","11 hours, 35 minutes"]}
+{"USA,France":["Boeing 747","93 business, 83 economy","10 hours, 30 minutes"]}
+{"Egypt,South Africa":["Boeing 787","18 business, 57 economy","7 hours, 38 minutes"]}
+{"Mexico,Spain":["Boeing 747","61 business, 154 economy","13 hours, 58 minutes"]}
+{"China,Spain":["Embraer E190","71 business, 108 economy","1 hours, 38 minutes"]}
+{"Turkey,Argentina":["Bombardier C-110","77 business, 151 economy","8 hours, 6 minutes"]}
+{"Germany,Saudi Arabia":["Airbus A380","99 business, 229 economy","1 hours, 18 minutes"]}
+{"Saudi Arabia,Canada":["Boeing 787","39 business, 67 economy","13 hours, 18 minutes"]}
+{"Spain,China":["Tupolev Tu-204","21 business, 137 economy","12 hours, 12 minutes"]}
+{"Italy,UAE":["Embraer E190","72 business, 156 economy","3 hours, 55 minutes"]}
+{"Germany,Saudi Arabia":["Airbus A380","56 business, 107 economy","1 hours, 19 minutes"]}
+{"Canada,China":["Boeing 747","25 business, 190 economy","10 hours, 31 minutes"]}
+{"Russia,Saudi Arabia":["Embraer E190","72 business, 279 economy","8 hours, 12 minutes"]}
+{"UAE,Spain":["Embraer E190","7 business, 127 economy","7 hours, 2 minutes"]}
+{"USA,Saudi Arabia":["Boeing 787","43 business, 57 economy","2 hours, 1 minutes"]}
+{"Japan,Australia":["Embraer E190","48 business, 99 economy","10 hours, 37 minutes"]}
+{"UAE,Saudi Arabia":["Antonov 24","6 business, 239 economy","10 hours, 50 minutes"]}
+{"Russia,India":["Boeing 737","64 business, 146 economy","8 hours, 9 minutes"]}
+{"Argentina,China":["Airbus A380","13 business, 154 economy","13 hours, 50 minutes"]}
+{"India,Japan":["Airbus A380","32 business, 52 economy","12 hours, 21 minutes"]}
+{"UAE,South Africa":["Boeing 737","87 business, 102 economy","8 hours, 10 minutes"]}
+{"Egypt,Argentina":["Antonov 24","31 business, 185 economy","3 hours, 43 minutes"]}
+{"USA,South Africa":["Airbus A320","6 business, 245 economy","9 hours, 44 minutes"]}
+{"UK,Japan":["Bombardier C-110","30 business, 266 economy","3 hours, 58 minutes"]}
+{"Russia,UK":["Antonov 24","12 business, 140 economy","10 hours, 11 minutes"]}
+{"Japan,Saudi Arabia":["Boeing 747","35 business, 122 economy","11 hours, 51 minutes"]}
+{"Italy,Brazil":["Airbus A380","19 business, 143 economy","9 hours, 23 minutes"]}
+{"Turkey,Japan":["Airbus A380","53 business, 280 economy","6 hours, 47 minutes"]}
+{"Spain,Japan":["Airbus A320","31 business, 282 economy","6 hours, 22 minutes"]}
+{"Turkey,Saudi Arabia":["Embraer E190","19 business, 290 economy","9 hours, 27 minutes"]}
+{"India,Argentina":["Boeing 747","52 business, 211 economy","8 hours, 43 minutes"]}
+{"Germany,Russia":["Bombardier C-110","9 business, 161 economy","12 hours, 17 minutes"]}
+{"India,Canada":["Airbus A320","12 business, 76 economy","11 hours, 11 minutes"]}
+{"Russia,South Africa":["Boeing 787","41 business, 94 economy","3 hours, 16 minutes"]}
+{"Japan,India":["Boeing 737","8 business, 96 economy","2 hours, 47 minutes"]}
+{"UK,Egypt":["Boeing 787","27 business, 178 economy","10 hours, 58 minutes"]}
+{"UAE,Germany":["Airbus A380","41 business, 195 economy","6 hours, 13 minutes"]}
+{"Italy,Mexico":["Boeing 737","18 business, 61 economy","2 hours, 58 minutes"]}
+{"Turkey,UK":["Boeing 787","62 business, 220 economy","12 hours, 55 minutes"]}
+{"France,UK":["Tupolev Tu-204","33 business, 95 economy","11 hours, 41 minutes"]}
+{"Egypt,South Africa":["Tupolev Tu-204","10 business, 157 economy","13 hours, 52 minutes"]}
+{"France,Brazil":["Airbus A380","62 business, 115 economy","5 hours, 56 minutes"]}
+{"Canada,China":["Embraer E190","50 business, 294 economy","9 hours, 0 minutes"]}
+{"USA,Russia":["Comac C919","50 business, 109 economy","15 hours, 46 minutes"]}
+{"Australia,Mexico":["Airbus A320","84 business, 273 economy","4 hours, 6 minutes"]}
+{"Spain,Egypt":["Boeing 787","99 business, 156 economy","10 hours, 33 minutes"]}
+{"Argentina,China":["Airbus A380","87 business, 63 economy","15 hours, 18 minutes"]}
+{"Saudi Arabia,UK":["Boeing 737","13 business, 86 economy","2 hours, 48 minutes"]}
+{"UK,Italy":["Comac C919","30 business, 87 economy","9 hours, 30 minutes"]}
+{"South Africa,Argentina":["Embraer E190","20 business, 98 economy","7 hours, 14 minutes"]}
+{"Japan,Germany":["Airbus A380","81 business, 136 economy","8 hours, 33 minutes"]}
+{"Italy,Japan":["Airbus A380","53 business, 102 economy","1 hours, 15 minutes"]}
+{"Saudi Arabia,South Africa":["Antonov 24","75 business, 106 economy","11 hours, 51 minutes"]}
+{"India,UAE":["Comac C919","23 business, 131 economy","13 hours, 39 minutes"]}
+{"Spain,Australia":["Airbus A380","84 business, 152 economy","11 hours, 44 minutes"]}
+{"Australia,Mexico":["Bombardier C-110","97 business, 278 economy","5 hours, 24 minutes"]}
+{"Turkey,India":["Boeing 747","42 business, 234 economy","9 hours, 33 minutes"]}
+{"Canada,Italy":["Boeing 787","86 business, 51 economy","5 hours, 33 minutes"]}
+{"Egypt,Saudi Arabia":["Boeing 787","32 business, 196 economy","7 hours, 35 minutes"]}
+{"Germany,USA":["Antonov 24","65 business, 244 economy","7 hours, 42 minutes"]}
+{"UAE,Germany":["Boeing 787","31 business, 156 economy","7 hours, 45 minutes"]}
+{"Mexico,France":["Boeing 747","18 business, 105 economy","13 hours, 43 minutes"]}
+{"Argentina,UAE":["Embraer E190","78 business, 52 economy","15 hours, 0 minutes"]}
+{"South Africa,China":["Airbus A320","9 business, 178 economy","9 hours, 22 minutes"]}
+{"India,Saudi Arabia":["Tupolev Tu-204","56 business, 254 economy","9 hours, 26 minutes"]}
+{"Italy,Spain":["Boeing 787","10 business, 150 economy","3 hours, 27 minutes"]}
+{"Brazil,Italy":["Bombardier C-110","5 business, 152 economy","2 hours, 40 minutes"]}
+{"Germany,Russia":["Airbus A320","58 business, 268 economy","9 hours, 4 minutes"]}
+{"China,India":["Bombardier C-110","13 business, 129 economy","2 hours, 41 minutes"]}
+{"Argentina,Italy":["Airbus A320","46 business, 194 economy","5 hours, 36 minutes"]}
+{"Australia,India":["Airbus A380","83 business, 188 economy","15 hours, 25 minutes"]}
+{"China,Argentina":["Bombardier C-110","56 business, 153 economy","8 hours, 17 minutes"]}
+{"Egypt,Brazil":["Airbus A320","62 business, 288 economy","15 hours, 43 minutes"]}
+{"Germany,Argentina":["Antonov 24","47 business, 270 economy","9 hours, 22 minutes"]}
+{"Turkey,Australia":["Airbus A320","13 business, 201 economy","5 hours, 50 minutes"]}
+{"Saudi Arabia,Mexico":["Comac C919","47 business, 81 economy","4 hours, 35 minutes"]}
+{"Mexico,Germany":["Antonov 24","92 business, 298 economy","9 hours, 17 minutes"]}
+{"Egypt,Italy":["Embraer E190","99 business, 83 economy","4 hours, 17 minutes"]}
+{"USA,Japan":["Boeing 737","5 business, 222 economy","5 hours, 25 minutes"]}
+{"Brazil,UK":["Boeing 747","64 business, 284 economy","2 hours, 20 minutes"]}
+{"UAE,Germany":["Comac C919","87 business, 95 economy","3 hours, 20 minutes"]}
+{"Japan,Saudi Arabia":["Boeing 787","98 business, 146 economy","10 hours, 31 minutes"]}
+{"China,Egypt":["Airbus A380","26 business, 250 economy","12 hours, 18 minutes"]}
+{"Argentina,France":["Tupolev Tu-204","98 business, 77 economy","13 hours, 22 minutes"]}
+{"USA,Argentina":["Boeing 747","22 business, 200 economy","8 hours, 13 minutes"]}
+{"Germany,UK":["Embraer E190","19 business, 283 economy","9 hours, 40 minutes"]}
+{"Russia,Canada":["Boeing 787","29 business, 140 economy","11 hours, 23 minutes"]}
+{"Brazil,UAE":["Comac C919","16 business, 108 economy","4 hours, 22 minutes"]}
+{"Turkey,Italy":["Airbus A320","24 business, 77 economy","8 hours, 25 minutes"]}
+{"Japan,Turkey":["Airbus A380","49 business, 214 economy","10 hours, 10 minutes"]}
+{"Mexico,Russia":["Airbus A380","58 business, 216 economy","11 hours, 13 minutes"]}
+{"Australia,Brazil":["Airbus A380","41 business, 251 economy","11 hours, 25 minutes"]}
+{"Mexico,Brazil":["Airbus A380","16 business, 251 economy","7 hours, 31 minutes"]}
+{"Russia,Argentina":["Comac C919","29 business, 291 economy","6 hours, 34 minutes"]}
+{"China,Russia":["Antonov 24","84 business, 278 economy","11 hours, 59 minutes"]}
+{"UK,Spain":["Boeing 737","82 business, 192 economy","4 hours, 54 minutes"]}
+{"Germany,China":["Comac C919","81 business, 90 economy","5 hours, 8 minutes"]}
+{"Canada,UAE":["Embraer E190","78 business, 123 economy","2 hours, 33 minutes"]}
+{"Canada,UAE":["Boeing 747","15 business, 55 economy","8 hours, 47 minutes"]}
+{"Egypt,UK":["Antonov 24","14 business, 153 economy","15 hours, 27 minutes"]}
+{"France,Argentina":["Comac C919","25 business, 58 economy","14 hours, 53 minutes"]}
+{"South Africa,India":["Comac C919","9 business, 242 economy","1 hours, 35 minutes"]}
+{"UAE,France":["Boeing 787","81 business, 284 economy","9 hours, 27 minutes"]}
+{"China,Brazil":["Airbus A380","93 business, 212 economy","1 hours, 39 minutes"]}
+{"China,France":["Comac C919","48 business, 212 economy","2 hours, 23 minutes"]}
+{"Egypt,UAE":["Boeing 787","39 business, 222 economy","3 hours, 41 minutes"]}
+{"Japan,France":["Boeing 787","77 business, 163 economy","6 hours, 5 minutes"]}
+{"UAE,Japan":["Bombardier C-110","53 business, 233 economy","7 hours, 27 minutes"]}
+{"Brazil,Canada":["Airbus A380","68 business, 190 economy","1 hours, 39 minutes"]}
+{"Brazil,UK":["Comac C919","96 business, 226 economy","1 hours, 34 minutes"]}
+{"Germany,Turkey":["Airbus A320","54 business, 298 economy","2 hours, 38 minutes"]}
+{"France,Turkey":["Bombardier C-110","74 business, 152 economy","13 hours, 23 minutes"]}
+{"UAE,Italy":["Comac C919","46 business, 247 economy","1 hours, 37 minutes"]}
+{"Spain,Australia":["Boeing 737","9 business, 212 economy","15 hours, 36 minutes"]}
+{"Australia,Egypt":["Comac C919","18 business, 199 economy","3 hours, 47 minutes"]}
+{"Egypt,Spain":["Boeing 747","65 business, 226 economy","11 hours, 13 minutes"]}
+{"Russia,Egypt":["Comac C919","60 business, 125 economy","10 hours, 24 minutes"]}
+{"Argentina,South Africa":["Boeing 747","9 business, 162 economy","11 hours, 24 minutes"]}
+{"China,Turkey":["Boeing 737","45 business, 238 economy","15 hours, 43 minutes"]}
+{"India,Argentina":["Antonov 24","60 business, 169 economy","12 hours, 2 minutes"]}
+{"Argentina,India":["Boeing 787","86 business, 169 economy","9 hours, 54 minutes"]}
+{"Argentina,Canada":["Embraer E190","40 business, 53 economy","1 hours, 59 minutes"]}
+{"UK,Spain":["Bombardier C-110","27 business, 264 economy","10 hours, 48 minutes"]}
+{"Argentina,Australia":["Boeing 737","85 business, 181 economy","8 hours, 20 minutes"]}
+{"USA,Japan":["Bombardier C-110","25 business, 201 economy","13 hours, 0 minutes"]}
+{"India,Canada":["Airbus A320","72 business, 244 economy","7 hours, 23 minutes"]}
+{"Argentina,Mexico":["Tupolev Tu-204","76 business, 169 economy","3 hours, 24 minutes"]}
+{"India,Egypt":["Boeing 787","12 business, 245 economy","15 hours, 42 minutes"]}
+{"Mexico,Russia":["Comac C919","81 business, 125 economy","7 hours, 28 minutes"]}
+{"Russia,UK":["Boeing 737","70 business, 144 economy","3 hours, 41 minutes"]}
+{"Spain,France":["Tupolev Tu-204","36 business, 161 economy","5 hours, 56 minutes"]}
+{"Turkey,Canada":["Airbus A380","23 business, 65 economy","7 hours, 12 minutes"]}
+{"Egypt,Spain":["Bombardier C-110","91 business, 201 economy","12 hours, 4 minutes"]}
+{"Australia,Saudi Arabia":["Antonov 24","24 business, 257 economy","8 hours, 27 minutes"]}
+{"UK,Australia":["Antonov 24","86 business, 69 economy","9 hours, 7 minutes"]}
+{"Saudi Arabia,Canada":["Comac C919","29 business, 199 economy","7 hours, 20 minutes"]}
+{"Japan,South Africa":["Boeing 747","68 business, 58 economy","5 hours, 27 minutes"]}
+{"Argentina,France":["Boeing 787","9 business, 235 economy","15 hours, 55 minutes"]}
+{"South Africa,Germany":["Comac C919","6 business, 114 economy","10 hours, 37 minutes"]}
+{"Saudi Arabia,Argentina":["Airbus A380","86 business, 213 economy","6 hours, 4 minutes"]}
+{"Canada,Mexico":["Embraer E190","24 business, 108 economy","9 hours, 5 minutes"]}
+{"Australia,Japan":["Antonov 24","96 business, 259 economy","4 hours, 33 minutes"]}
+{"Argentina,Italy":["Embraer E190","81 business, 221 economy","5 hours, 30 minutes"]}
+{"Egypt,Italy":["Boeing 787","50 business, 104 economy","13 hours, 4 minutes"]}
+{"Italy,Germany":["Embraer E190","63 business, 169 economy","13 hours, 38 minutes"]}
+{"Australia,Japan":["Antonov 24","20 business, 142 economy","7 hours, 7 minutes"]}
+{"Spain,Egypt":["Antonov 24","90 business, 163 economy","11 hours, 12 minutes"]}
+{"Turkey,South Africa":["Airbus A320","23 business, 103 economy","9 hours, 22 minutes"]}
+{"USA,South Africa":["Boeing 747","83 business, 111 economy","6 hours, 51 minutes"]}
+{"South Africa,France":["Comac C919","64 business, 275 economy","11 hours, 46 minutes"]}
+{"Saudi Arabia,Brazil":["Comac C919","14 business, 50 economy","5 hours, 3 minutes"]}
+{"USA,India":["Boeing 737","30 business, 103 economy","13 hours, 58 minutes"]}
+{"Saudi Arabia,UK":["Antonov 24","9 business, 230 economy","2 hours, 39 minutes"]}
+{"Japan,Egypt":["Antonov 24","98 business, 128 economy","5 hours, 56 minutes"]}
+{"Turkey,UAE":["Boeing 737","13 business, 119 economy","4 hours, 16 minutes"]}
+{"South Africa,Canada":["Airbus A380","36 business, 154 economy","7 hours, 34 minutes"]}
+{"Saudi Arabia,Spain":["Airbus A380","48 business, 83 economy","4 hours, 36 minutes"]}
+{"USA,Argentina":["Airbus A380","83 business, 185 economy","5 hours, 6 minutes"]}
+{"Spain,Turkey":["Embraer E190","26 business, 263 economy","6 hours, 29 minutes"]}
+{"Mexico,Australia":["Boeing 747","36 business, 197 economy","14 hours, 56 minutes"]}
+{"UAE,Germany":["Airbus A320","49 business, 197 economy","6 hours, 20 minutes"]}
+{"Spain,Turkey":["Boeing 787","34 business, 288 economy","4 hours, 2 minutes"]}
+{"Argentina,India":["Boeing 737","18 business, 275 economy","5 hours, 36 minutes"]}
+{"UK,USA":["Antonov 24","78 business, 186 economy","8 hours, 0 minutes"]}
+{"Turkey,Brazil":["Airbus A380","44 business, 159 economy","10 hours, 17 minutes"]}
+{"China,France":["Embraer E190","63 business, 249 economy","3 hours, 38 minutes"]}
+{"China,Australia":["Boeing 787","23 business, 248 economy","3 hours, 37 minutes"]}
+{"Egypt,Italy":["Tupolev Tu-204","11 business, 215 economy","9 hours, 25 minutes"]}
+{"Italy,Australia":["Bombardier C-110","18 business, 81 economy","10 hours, 6 minutes"]}
+{"Brazil,Mexico":["Comac C919","86 business, 167 economy","9 hours, 1 minutes"]}
+{"Russia,Canada":["Bombardier C-110","79 business, 53 economy","8 hours, 45 minutes"]}
+{"Spain,Russia":["Boeing 737","44 business, 268 economy","5 hours, 56 minutes"]}
+{"Egypt,France":["Boeing 787","45 business, 201 economy","5 hours, 56 minutes"]}
+{"Turkey,USA":["Boeing 787","25 business, 282 economy","13 hours, 58 minutes"]}
+{"France,Russia":["Boeing 747","78 business, 105 economy","9 hours, 38 minutes"]}
+{"Turkey,Spain":["Boeing 787","31 business, 122 economy","3 hours, 6 minutes"]}
+{"Turkey,Canada":["Antonov 24","18 business, 75 economy","11 hours, 40 minutes"]}
+{"Russia,South Africa":["Bombardier C-110","74 business, 233 economy","12 hours, 3 minutes"]}
+{"UAE,USA":["Boeing 737","67 business, 203 economy","5 hours, 14 minutes"]}
+{"France,Saudi Arabia":["Boeing 737","56 business, 109 economy","6 hours, 26 minutes"]}
+{"Japan,South Africa":["Boeing 737","73 business, 207 economy","8 hours, 25 minutes"]}
+{"Turkey,Italy":["Comac C919","82 business, 142 economy","12 hours, 19 minutes"]}
+{"South Africa,Argentina":["Boeing 747","72 business, 255 economy","14 hours, 49 minutes"]}
+{"Brazil,Canada":["Tupolev Tu-204","68 business, 260 economy","12 hours, 44 minutes"]}
+{"USA,Brazil":["Airbus A320","22 business, 162 economy","15 hours, 19 minutes"]}
+{"USA,Brazil":["Boeing 787","72 business, 75 economy","14 hours, 18 minutes"]}
+{"Saudi Arabia,Egypt":["Airbus A320","83 business, 288 economy","11 hours, 13 minutes"]}
+{"France,Brazil":["Boeing 787","68 business, 245 economy","12 hours, 10 minutes"]}
+{"Japan,Argentina":["Airbus A380","78 business, 137 economy","10 hours, 1 minutes"]}
+{"UAE,India":["Comac C919","51 business, 223 economy","2 hours, 22 minutes"]}
+{"Italy,Egypt":["Antonov 24","65 business, 138 economy","8 hours, 10 minutes"]}
+{"Mexico,Argentina":["Boeing 787","98 business, 256 economy","2 hours, 34 minutes"]}
+{"USA,Saudi Arabia":["Boeing 737","83 business, 58 economy","14 hours, 22 minutes"]}
+{"Turkey,France":["Bombardier C-110","76 business, 117 economy","12 hours, 37 minutes"]}
+{"Egypt,Australia":["Boeing 737","95 business, 277 economy","8 hours, 46 minutes"]}
+{"China,Mexico":["Airbus A320","22 business, 81 economy","11 hours, 41 minutes"]}
+{"USA,UK":["Airbus A380","90 business, 283 economy","7 hours, 39 minutes"]}
+{"Saudi Arabia,Russia":["Tupolev Tu-204","90 business, 278 economy","4 hours, 5 minutes"]}
+{"Canada,China":["Tupolev Tu-204","29 business, 67 economy","11 hours, 10 minutes"]}
+{"France,UK":["Comac C919","43 business, 297 economy","15 hours, 31 minutes"]}
+{"Turkey,Argentina":["Airbus A380","57 business, 255 economy","12 hours, 44 minutes"]}
+{"Mexico,India":["Boeing 747","42 business, 233 economy","10 hours, 53 minutes"]}
+{"USA,South Africa":["Antonov 24","63 business, 157 economy","15 hours, 22 minutes"]}
+{"Argentina,Brazil":["Comac C919","10 business, 282 economy","13 hours, 10 minutes"]}
+{"UK,Germany":["Airbus A380","27 business, 283 economy","8 hours, 31 minutes"]}
+{"Egypt,Japan":["Airbus A320","98 business, 135 economy","2 hours, 57 minutes"]}
+{"Russia,USA":["Boeing 737","77 business, 299 economy","14 hours, 58 minutes"]}
+{"UK,UAE":["Boeing 747","64 business, 225 economy","3 hours, 27 minutes"]}
+{"Germany,Mexico":["Airbus A320","56 business, 83 economy","1 hours, 57 minutes"]}
+{"Mexico,Germany":["Boeing 737","33 business, 189 economy","15 hours, 12 minutes"]}
+{"Saudi Arabia,Japan":["Embraer E190","9 business, 224 economy","3 hours, 3 minutes"]}
+{"Australia,India":["Airbus A320","84 business, 255 economy","1 hours, 13 minutes"]}
+{"Turkey,Brazil":["Antonov 24","98 business, 200 economy","4 hours, 35 minutes"]}
+{"Egypt,Italy":["Comac C919","81 business, 275 economy","14 hours, 56 minutes"]}
+{"Spain,Mexico":["Bombardier C-110","28 business, 133 economy","11 hours, 9 minutes"]}
+{"Australia,Mexico":["Comac C919","27 business, 168 economy","6 hours, 48 minutes"]}
+{"UK,USA":["Boeing 787","25 business, 214 economy","9 hours, 45 minutes"]}
+{"Argentina,Saudi Arabia":["Comac C919","79 business, 117 economy","12 hours, 44 minutes"]}
+{"Canada,Argentina":["Comac C919","70 business, 296 economy","2 hours, 38 minutes"]}
+{"Saudi Arabia,Germany":["Boeing 787","31 business, 254 economy","1 hours, 59 minutes"]}
+{"Turkey,UAE":["Boeing 787","24 business, 162 economy","5 hours, 40 minutes"]}
+{"Brazil,UAE":["Airbus A320","22 business, 99 economy","10 hours, 57 minutes"]}
+{"Mexico,Saudi Arabia":["Airbus A320","87 business, 265 economy","11 hours, 11 minutes"]}
+{"Spain,France":["Embraer E190","29 business, 84 economy","8 hours, 12 minutes"]}
+{"UAE,UK":["Bombardier C-110","17 business, 278 economy","15 hours, 56 minutes"]}
+{"USA,Egypt":["Boeing 787","51 business, 72 economy","9 hours, 39 minutes"]}
+{"Brazil,Argentina":["Embraer E190","22 business, 274 economy","14 hours, 54 minutes"]}
+{"France,UK":["Airbus A380","100 business, 249 economy","6 hours, 49 minutes"]}
+{"Brazil,Russia":["Comac C919","12 business, 55 economy","10 hours, 0 minutes"]}
+{"Argentina,Italy":["Boeing 737","34 business, 88 economy","4 hours, 24 minutes"]}
+{"Saudi Arabia,Canada":["Comac C919","93 business, 290 economy","15 hours, 29 minutes"]}
+{"Russia,South Africa":["Antonov 24","67 business, 56 economy","14 hours, 45 minutes"]}
+{"Turkey,Spain":["Boeing 737","33 business, 78 economy","3 hours, 20 minutes"]}
+{"Germany,South Africa":["Airbus A380","81 business, 189 economy","7 hours, 13 minutes"]}
+{"South Africa,Canada":["Embraer E190","75 business, 94 economy","4 hours, 29 minutes"]}
+{"France,Russia":["Airbus A320","63 business, 131 economy","15 hours, 33 minutes"]}
+{"Turkey,UAE":["Airbus A380","66 business, 282 economy","7 hours, 29 minutes"]}
+{"South Africa,Egypt":["Comac C919","72 business, 227 economy","5 hours, 18 minutes"]}
+{"Russia,China":["Airbus A320","69 business, 126 economy","7 hours, 11 minutes"]}
+{"Spain,Saudi Arabia":["Tupolev Tu-204","94 business, 52 economy","14 hours, 57 minutes"]}
+{"Italy,Canada":["Bombardier C-110","94 business, 245 economy","10 hours, 17 minutes"]}
+{"China,Egypt":["Comac C919","75 business, 292 economy","2 hours, 0 minutes"]}
+{"Turkey,Egypt":["Antonov 24","51 business, 229 economy","5 hours, 20 minutes"]}
+{"Mexico,Japan":["Tupolev Tu-204","84 business, 146 economy","14 hours, 43 minutes"]}
+{"Russia,China":["Tupolev Tu-204","83 business, 136 economy","11 hours, 21 minutes"]}
+{"Argentina,China":["Tupolev Tu-204","66 business, 148 economy","7 hours, 30 minutes"]}
+{"Brazil,UK":["Antonov 24","27 business, 236 economy","2 hours, 23 minutes"]}
+{"China,Brazil":["Antonov 24","75 business, 206 economy","6 hours, 30 minutes"]}
+{"Saudi Arabia,France":["Embraer E190","90 business, 227 economy","1 hours, 56 minutes"]}
+{"Turkey,USA":["Antonov 24","63 business, 99 economy","14 hours, 52 minutes"]}
+{"Argentina,Mexico":["Comac C919","50 business, 212 economy","9 hours, 50 minutes"]}
