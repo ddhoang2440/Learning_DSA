@@ -1,0 +1,15 @@
+Implement the function question2_1 to construct an adjacency matrix representing a graph where each node is a stadium, and there is an undirected edge between two stadiums if they share at least one common renovation year.
+
+The function takes as input:
+
+vector<Stadium> stadiums: a list of stadium objects. Each Stadium contains a name and a list of renovation years (vector<int> renos).
+
+vector<string>& stadium_names: an empty vector passed by reference. It must be filled with the names of the stadiums that appear as nodes in the graph (i.e., stadiums with at least one renovation year and that are connected to at least one other stadium).
+
+The function returns:
+
+A symmetric adjacency matrix (vector<vector<int>>) where:
+
+The element at matrix[i][j] is 1 if stadium i and stadium j share at least one renovation year.
+
+Implement vector<string> question2_2(vector<string> names, vector<vector<int>> graph); to return the stadium(s) with the most connections (i.e., highest degree in the renovation graph). Return all stadiums tied for the top.
